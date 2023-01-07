@@ -30,6 +30,7 @@
 .location {
   color: rgb(124, 124, 124);
   margin: 10px auto;
+  font-size: 20px;
 }
 .stats {
   display: flex;
